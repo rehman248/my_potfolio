@@ -1,0 +1,38 @@
+[
+  {
+    "id": "msg_1791147765633_7afkl",
+    "name": "test",
+    "email": "test123@gmail.com",
+    "message": "test 1 2 3 4",
+    "createdAt": "2026-10-04T21:02:45.633Z",
+    "status": "unread",
+    "ip": "::1"
+  },
+  {
+    "id": "msg_1791147631403_aonbm",
+    "name": "Zeeshan Ali",
+    "email": "zeeshan@client.com",
+    "message": "Hello Abdul, I need a modern high-performance web portfolio for my agency. Can we discuss pricing?",
+    "createdAt": "2026-10-04T21:00:31.403Z",
+    "status": "unread",
+    "ip": "::1"
+  },
+  {
+    "id": "msg_1791147310306_ksyp1",
+    "name": "test",
+    "email": "test1234@gmail.com",
+    "message": "test 1 2 3 4",
+    "createdAt": "2026-10-04T20:55:10.306Z",
+    "status": "unread",
+    "ip": "::1"
+  },
+  {
+    "id": "msg_1791145963489_ql1tp",
+    "name": "Farhan Tariq",
+    "email": "farhan@example.com",
+    "message": "Hi Abdul, I saw your portfolio and would like to hire you to build an e-commerce website for my brand!",
+    "createdAt": "2026-10-04T20:32:43.489Z",
+    "status": "unread",
+    "ip": "::1"
+  }
+]
